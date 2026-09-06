@@ -7,12 +7,12 @@ Download file terbaru di tab [Releases](https://github.com/ManzDonzzz/MODSPACK-K
 File: `Unlock FPS.v26.2.mrpack`
 
 ### **Cara Install**
-1.  Download dan install [Prism Launcher](https://prismlauncher.org/) / [CurseForge](https://www.curseforge.com/)
+1.  Download launcher nya [Zalith Launcher](https://github.com/Star1xr/ZalithLauncher2Plus/releases/tag/build-83) / [Mojo Launcher](https://github.com/mojolauncher/mojolauncher/releases)
 2.  Klik `Import` -> pilih file `.mrpack` yang udah didownload
 3.  Tunggu selesai, langsung main
 
 ### **Info Modpack**
-- **Versi Minecraft**: 1.20.1
+- **Versi Minecraft**: 26.2
 - **Loader**: Fabric
 - **Total Mod**: 150+ mod
 - **Fokus**: Unlock FPS, Optimasi, QoL

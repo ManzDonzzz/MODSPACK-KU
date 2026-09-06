@@ -25,6 +25,5 @@ File: `Unlock FPS.v26.2.mrpack`
 
 ### **Changelog v1.0**
 - Rilis awal modpack
-- 150 mod optimasi
 
 Dibuat dengan ❤️ oleh @ManzDonzzz

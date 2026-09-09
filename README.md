@@ -80,6 +80,44 @@ Dapatkan versi terbaru modpack di [**Releases**](https://github.com/ManzDonzzz/M
 
 ---
 
+## 📱 Panduan Pengaturan Launcher
+
+### 🎮 Rendering Resolution Settings
+
+Untuk performa terbaik, gunakan **67% dari native resolution device kamu**:
+
+| Device Resolution | Setting di Launcher | Hasil |
+|-------------------|-------------------|--------|
+| 1080p | ~70% | Smooth & Good Visual |
+| 720p | ~67% | Optimal Performance |
+| FHD+ | ~65% | Recommended |
+
+> 💡 **Tips:** Jika masih patah-patah/stuttering, kurangi jadi 50-60%
+
+### 🧠 RAM Allocation Guide
+
+Alokasikan RAM ke launcher berdasarkan total RAM device:
+
+| RAM Device | Alokasi Launcher | Catatan |
+|-----------|-----------------|---------|
+| **6GB** | **4GB** | Max recommended |
+| **4GB** | **2GB** | Balanced |
+| **2GB** | **800MB** | Minimum safe |
+
+> ⚠️ **Penting:** Jangan alokasi semua RAM! Sisakan untuk system agar launcher tidak crash.
+
+### 🔧 Langkah Mengatur di Launcher
+
+1. Buka **Settings/Pengaturan** di launcher kamu (Zalith/Mojo/dll)
+2. Cari menu **Graphics/Visual** atau **Performance**
+3. Atur **Resolution Scale** ke nilai yang direkomendasikan
+4. Cari menu **Java Settings** atau **Memory/RAM**
+5. Set **JVM Arguments** atau **Allocated RAM** sesuai guide di atas
+6. Save & restart launcher
+7. Main dan enjoy! 🎮
+
+---
+
 ## 🤝 Kontribusi
 
 Punya saran atau menemukan bug? Buat issue di repository ini!

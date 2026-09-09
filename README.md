@@ -1,29 +1,91 @@
-# MODSPACK-KU
+# 🎮 MODSPACK-KU
 
-**Unlock FPS v26.2** - Modpack Minecraft buat naikin FPS & performa
+> **Modpack Minecraft dengan 150+ Mod - Unlock FPS & Optimasi Maksimal**
 
-### **Download**
-Download file terbaru di tab [Releases](https://github.com/ManzDonzzz/MODSPACK-KU/releases)  
-File: `Unlock FPS.v26.2.mrpack`
+---
 
-### **Cara Install**
-1.  Download launcher nya [Zalith Launcher](https://github.com/Star1xr/ZalithLauncher2Plus/releases/tag/build-83) / [Mojo Launcher](https://github.com/mojolauncher/mojolauncher/releases)
-2.  Klik `Import` -> pilih file `.mrpack` yang udah didownload
-3.  Tunggu selesai, langsung main
+## 📥 Download
 
-### **Info Modpack**
-- **Versi Minecraft**: 26.2
-- **Loader**: Fabric
-- **Total Mod**: 150+ mod
-- **Fokus**: Unlock FPS, Optimasi, QoL
+Dapatkan versi terbaru modpack di [**Releases**](https://github.com/ManzDonzzz/MODSPACK-KU/releases)
 
-### **Mod Unggulan**
-- Sodium + Iris - Optimasi FPS
-- Lithium - Optimasi server
-- Starlight - Optimasi lighting
-- ModMenu - Buat atur mod
+| Versi | File | Status |
+|-------|------|--------|
+| **v1.21.11** | `Unlock.FPSv1.21.11.mrpack` | ✅ Terbaru |
+| **v26.2** | `Unlock.FPS.v26.2.mrpack` | 📦 Stabil |
 
-### **Changelog v1.0**
+---
+
+## 🚀 Spesifikasi Modpack
+
+| Fitur | Detail |
+|-------|--------|
+| 🎮 **Versi Minecraft** | 1.21.11 |
+| 🔧 **Loader** | Fabric |
+| 📦 **Total Mod** | 150+ Mod |
+| ⚡ **Fokus Utama** | Unlock FPS, Optimasi, Quality of Life |
+| 🌟 **Tema** | Performa & Enjoyment |
+
+---
+
+## 💎 Mod Unggulan
+
+### ⚡ Optimasi Performa
+- **Sodium** - Rendering engine yang sangat cepat
+- **Iris Shaders** - Support shader dengan performa optimal
+- **Lithium** - Optimasi server-side & tick rate
+- **Starlight** - Rewrite lighting engine untuk performa lebih baik
+- **Enhanced Block Entities** - Optimasi block entity rendering
+
+### 🎨 Visual & Aesthetic
+- **Complementary Shaders** - Shader realistis & cantik
+- **Continuity** - Connected textures otomatis
+- **Lambdynamic Lights** - Cahaya dinamis dari item
+
+### 🎯 Quality of Life
+- **ModMenu** - Interface untuk atur mod dengan mudah
+- **Inventory Tweaks** - Slot inventory otomatis tersusun
+- **REI's Search** - Search item dalam creative menu
+- **Jade** - Tooltip info blok yang detail
+
+### 🗺️ World Generation & Content
+- **Terralith** - Biome baru yang eksotis & cantik
+- **Structure Compass** - Temukan structure dengan mudah
+- **Oh The Biomes You'll Go** - Biome unik & adventure menarik
+
+---
+
+## 📋 Changelog
+
+### v1.21.11 ✨
+- Update ke Minecraft 1.21.11
+- Tambah mod-mod performa terbaru
+- Optimasi shader & visual
+- Improvement QoL mod
+- Bug fix & stability
+
+### v26.2 🎮
 - Rilis awal modpack
+- 150+ mod pilihan
+- Fokus pada performa & fun gameplay
 
-Dibuat dengan ❤️ oleh @ManzDonzzz
+---
+
+## ✨ Fitur Highlight
+
+✅ **Performa Maksimal** - Nikmati high FPS tanpa lag  
+✅ **Mod Berkualitas** - Dipilih dengan teliti untuk kompatibilitas  
+✅ **Tampilan Cantik** - Visual enhancement tanpa mengorbankan performa  
+✅ **Stability** - Testing berkala untuk memastikan stabil  
+✅ **Community Ready** - Siap untuk multiplayer & modpack server  
+
+---
+
+## 🤝 Kontribusi
+
+Punya saran atau menemukan bug? Buat issue di repository ini!
+
+---
+
+**Dibuat dengan ❤️ oleh [@ManzDonzzz](https://github.com/ManzDonzzz)**
+
+*Selamat bermain! Nikmati Minecraft dengan modpack terbaik.* 🎮✨
